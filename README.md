@@ -1,76 +1,48 @@
-<!-- =============================== -->
-<!-- GitHub Profile README (FINAL)  -->
-<!-- =============================== -->
-
-<!-- ===== TOP BANNER ===== -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishnusai-14107a256/" target="_blank">
-    <img src="./Banner.png.jpg" alt="DevOps Engineer Banner" width="100%" />
-  </a>
-</p>
-
-<h2 align="center">Vishnu Sai — DevOps Engineer</h2>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ksaivishnusaikvs&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<h1 align="center">Vishnu </h1>
+<h3 align="center">DevOps & Cloud Engineer ☁️🚀</h3>
+
+<p align="center">
+  Automating infrastructure • Building scalable cloud systems • Optimizing CI/CD
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔹 DevOps & Cloud Engineer
-- 🔹 Infrastructure Automation & Cloud FinOps
-- 🔹 AWS | Kubernetes | Terraform | Docker | Ansible
-- 🔹 CI/CD | Linux | Git | AI/MLOps
+- ⚙️ DevOps & Cloud Engineer  
+- ☁️ AWS | Kubernetes | Terraform | Docker  
+- 🔁 CI/CD | Linux | Git | Automation  
+- 💡 Exploring AI/MLOps & Cloud FinOps  
 
-📂 **Projects:** https://github.com/ksaivishnusaikvs?tab=repositories  
-📫 **Email:** vishnusai.vks@gmail.com  
-📄 **Profile Repo:** https://github.com/ksaivishnusaikvs/ksaivishnusaikvs  
+📂 **Projects:** https://github.com/0000sai
+📫 **Email:** kvs.vishnusai@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/vishnusaib23947270/ 
 
 ---
 
-## 🤝 Connect with Me
+## 🛠 Tech Stack
 <p align="left">
-  <a href="https://www.linkedin.com/in/vishnusai-14107a256/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="LinkedIn"
-         width="40"
-         height="30"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,linux,git,python,mysql,mongodb,grafana" />
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-</p>
-
----
-## 📊 GitHub Stats
-
+## 📊 GitHub Dashboard
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ksaivishnusaikvs?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/ksaivishnusaikvs?label=Stars&style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ksaivishnusaikvs&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/ksaivishnusaikvs/ksaivishnusaikvs?label=Commits&style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/ksaivishnusaikvs/ksaivishnusaikvs?label=Last%20Commit&style=for-the-badge" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksaivishnusaikvs&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksaivishnusaikvs&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+---
 
-
-
+⭐ *“Automate everything that can be automated.”*
