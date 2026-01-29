@@ -1,272 +1,212 @@
 <div align="center">
 
-# 👨‍💻 Vishnu Sai
+# 👋 Hi, I'm Vishnu Sai
 
-### DevOps & Cloud Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F85D7F&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer;Automation+Enthusiast;Infrastructure+as+Code+Advocate;Kubernetes+%26+Docker+Expert;CI%2FCD+Pipeline+Architect" alt="Typing SVG" />
 
-*I design, automate, and operate reliable cloud infrastructure.*  
-*Focused on CI/CD, container platforms, and scalable cloud systems.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnusaib23947270/)
-[![Email](https://img.shields.io/badge/Email-kvs.vishnusai@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:kvs.vishnusai@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=0000sai&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/0000sai?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/0000sai?style=social)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=fff" />
 
 </div>
 
 ---
 
-## 🚀 Live GitHub Analytics
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<div align="center">
+## 🚀 About Me
 
-### 📊 Comprehensive Stats Dashboard
+```yaml
+name: Vishnu Sai
+role: DevOps & Cloud Engineer
+location: Hyderabad, India 🇮🇳
+status: Available for Freelance 💼
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0000sai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&rank_icon=github)
+current_focus:
+  - Building resilient cloud infrastructure
+  - Automating everything possible
+  - Mastering Kubernetes & GitOps
+  - Contributing to open source
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0000sai&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866&sideLabels=C9D1D9&dates=C9D1D9)
+interests:
+  - ☁️  Cloud Native Technologies
+  - 🔄 CI/CD Pipeline Optimization  
+  - 🐳 Container Orchestration
+  - 📊 Observability & Monitoring
+  - 🤖 Infrastructure Automation
 
-### 📈 Contribution Graph
+learning:
+  - Advanced Kubernetes Patterns
+  - Service Mesh (Istio/Linkerd)
+  - Platform Engineering
+  - FinOps & Cloud Cost Optimization
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0000sai&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=C9D1D9&area=true&area_color=F85D7F)
-
-### 🏆 GitHub Trophy Collection
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=0000sai&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 💻 Language & Technology Stats
-
-<div align="center">
-
-### 📝 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0000sai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=10)
-
-![Top Languages - Detailed](https://github-readme-stats.vercel.app/api/top-langs/?username=0000sai&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9)
-
-### ⚡ Productivity Stats
-
-![Productive Time](https://github-readme-stats.vercel.app/api/wakatime?username=0000sai&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9)
-
-</div>
-
----
-
-## 🛠️ Technology Stack & Skills
-
-<div align="center">
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-
-### Container & Orchestration
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
-
-### Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### CI/CD & Automation
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-
-### Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
-
-### Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-
-### Version Control & Collaboration
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-### Databases & Data Stores
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-
-</div>
-
----
-
-## 📊 Detailed Analytics
-
-<div align="center">
-
-### 🔥 Contribution Metrics
-
-![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/0000sai/0000sai/output/github-contribution-grid-snake-dark.svg)
-
-### 📅 Commit Calendar
-
-![GitHub Activity Heatmap](https://ghchart.rshah.org/F85D7F/0000sai)
-
-### 💼 Repository Stats
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=0000sai&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9)
-
-</div>
-
----
-
-## 🎯 Real-Time Metrics
-
-<div align="center">
-
-| Metric | Value |
-|:------:|:-----:|
-| ![Total Commits](https://img.shields.io/badge/dynamic/json?color=F85D7F&label=Total%20Commits&query=totalCommits&url=https://github-contributions-api.deno.dev/0000sai.json&style=for-the-badge) | ![Total PRs](https://img.shields.io/badge/dynamic/json?color=F8D866&label=Total%20PRs&query=totalPRs&url=https://github-contributions-api.deno.dev/0000sai.json&style=for-the-badge) |
-| ![Total Issues](https://img.shields.io/badge/dynamic/json?color=C9D1D9&label=Total%20Issues&query=totalIssues&url=https://github-contributions-api.deno.dev/0000sai.json&style=for-the-badge) | ![Contributions](https://img.shields.io/badge/dynamic/json?color=F85D7F&label=Contributions&query=totalContributions&url=https://github-contributions-api.deno.dev/0000sai.json&style=for-the-badge) |
-
-### ⏰ Coding Activity (WakaTime Integration)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-![GitHub Metrics](https://metrics.lecoq.io/0000sai?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&stars=1&habits=1&followup=1&lines=1&config.timezone=Asia%2FKolkata)
-
-### 🌟 Contribution Stats
-
-![3D Contribution Chart](https://github-readme-stats.vercel.app/api?username=0000sai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-</div>
-
----
-
-## 📈 Weekly Development Breakdown
-
-<div align="center">
-
-<!--START_SECTION:waka-simple-->
-```text
-DevOps Tools     ████████████████░░░░░   75%
-Cloud Services   ███████████████░░░░░░   65%
-Scripting        ████████████░░░░░░░░░   55%
-Documentation    ██████████░░░░░░░░░░░   45%
-Learning         ███████████████████░░   85%
+fun_fact: "I automate my coffee breaks ☕"
 ```
-<!--END_SECTION:waka-simple-->
 
-</div>
+<br clear="right"/>
 
 ---
 
-## 🎨 Profile Visualizations
+## 💼 What I Do
 
 <div align="center">
 
-### 📊 Profile Summary Card
-
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0000sai&theme=radical)
-
-### 🌈 Language Stats Over Time
-
-![Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0000sai&theme=radical)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0000sai&theme=radical)
-
-### 📅 Commit Distribution
-
-![Commits Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0000sai&theme=radical)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0000sai&theme=radical)
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
+<br><b>Cloud Infrastructure</b>
+<br><sub>Design & Deploy</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" />
+<br><b>Automation</b>
+<br><sub>IaC & Scripts</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
+<br><b>CI/CD Pipelines</b>
+<br><sub>Build & Deploy</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" />
+<br><b>Monitoring</b>
+<br><sub>Observe & Alert</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🎯 Core Competencies Matrix
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-| Category | Skills | Proficiency |
-|:--------:|:-------|:-----------:|
-| ☁️ **Cloud Platforms** | AWS, Azure, GCP | ![90%](https://progress-bar.dev/90/?title=Expert&width=200&color=F85D7F) |
-| 🐳 **Containerization** | Docker, Kubernetes, Helm | ![95%](https://progress-bar.dev/95/?title=Expert&width=200&color=F8D866) |
-| 🏗️ **IaC** | Terraform, Ansible, Pulumi | ![85%](https://progress-bar.dev/85/?title=Advanced&width=200&color=F85D7F) |
-| 🔄 **CI/CD** | Jenkins, GitLab CI, ArgoCD | ![90%](https://progress-bar.dev/90/?title=Expert&width=200&color=F8D866) |
-| 📊 **Monitoring** | Prometheus, Grafana, ELK | ![80%](https://progress-bar.dev/80/?title=Advanced&width=200&color=F85D7F) |
-| 🐍 **Scripting** | Python, Bash, Go | ![85%](https://progress-bar.dev/85/?title=Advanced&width=200&color=F8D866) |
-| 🐧 **Linux/Unix** | Ubuntu, CentOS, Debian | ![90%](https://progress-bar.dev/90/?title=Expert&width=200&color=F85D7F) |
-| 🔐 **Security** | Vault, RBAC, Network Policies | ![75%](https://progress-bar.dev/75/?title=Advanced&width=200&color=F8D866) |
+### ☁️ Cloud Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare" />
+</p>
+
+### 🐳 Container & Orchestration  
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,rancher" />
+</p>
+
+### 🏗️ Infrastructure as Code
+<p>
+<img src="https://skillicons.dev/icons?i=terraform,ansible" />
+<img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" height="48"/>
+</p>
+
+### 🔄 CI/CD & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins,github,gitlab,git" />
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" height="48"/>
+</p>
+
+### 📊 Monitoring & Observability
+<p>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+<img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white" height="48"/>
+</p>
+
+### 💻 Programming & Scripting
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,go,javascript" />
+</p>
+
+### 🐧 Operating Systems
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
 
 </div>
 
 ---
 
-## 💡 Recent Activity Feed
+## 📊 Live GitHub Stats
 
 <div align="center">
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0000sai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0000sai&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
 
-<!--RECENT_ACTIVITY:last_update-->
-<!--RECENT_ACTIVITY:last_update_end-->
-
-### 🔄 Latest GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0000sai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=0000sai&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=C9D1D9&area=true&area_color=F85D7F&height=300" />
 
 </div>
 
 ---
 
-## 📚 Featured Repositories
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0000sai&repo=kubernetes-automation&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)](https://github.com/0000sai/kubernetes-automation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0000sai&repo=terraform-aws-infrastructure&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)](https://github.com/0000sai/terraform-aws-infrastructure)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0000sai&repo=cicd-pipeline-templates&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)](https://github.com/0000sai/cicd-pipeline-templates)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0000sai&repo=monitoring-stack&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)](https://github.com/0000sai/monitoring-stack)
+![trophy](https://github-profile-trophy.vercel.app/?username=0000sai&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/0000sai/0000sai/output/github-contribution-grid-snake-dark.svg)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0000sai&custom_title=Vishnu%20Sai's%20Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true)](https://github.com/0000sai)
+
+</div>
+
+---
+
+## 💡 Current Status
+
+<div align="center">
+
+```javascript
+const vishnuSai = {
+    code: ["Python", "Bash", "JavaScript", "Go", "YAML"],
+    tools: {
+        cloud: ["AWS", "Azure", "GCP"],
+        containerization: ["Docker", "Kubernetes", "Helm"],
+        iac: ["Terraform", "Ansible", "Pulumi"],
+        cicd: ["Jenkins", "GitLab CI", "GitHub Actions", "ArgoCD"],
+        monitoring: ["Prometheus", "Grafana", "ELK Stack", "Datadog"]
+    },
+    architecture: ["Microservices", "Serverless", "Event-Driven", "Cloud-Native"],
+    currentFocus: "Building production-grade GitOps workflows",
+    challenge: "Mastering Kubernetes operators and CRDs"
+};
+```
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+<div align="center">
+
+| Goal | Status |
+|:-----|:------:|
+| AWS Solutions Architect Professional | ![20%](https://progress-bar.dev/20/?width=200&color=F85D7F) |
+| CKA Certification | ![60%](https://progress-bar.dev/60/?width=200&color=F8D866) |
+| Contribute to 5 Open Source Projects | ![40%](https://progress-bar.dev/40/?width=200&color=F85D7F) |
+| Build Production Platform | ![75%](https://progress-bar.dev/75/?width=200&color=F8D866) |
+| Master Service Mesh | ![30%](https://progress-bar.dev/30/?width=200&color=F85D7F) |
+
+</div>
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -274,46 +214,45 @@ Learning         ███████████████████░░
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kvs.vishnusai@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0000sai)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0000sai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://0000sai.github.io)
 
-### 📧 Contact Stats
+<br>
 
-![Email Badge](https://img.shields.io/badge/Response_Time-24h-success?style=flat-square)
-![Availability](https://img.shields.io/badge/Status-Available_for_Freelance-brightgreen?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Hyderabad,_India-blue?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=0000sai&label=Profile%20Views&color=F85D7F&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/0000sai?label=Followers&style=for-the-badge&color=F8D866)
+![GitHub User's stars](https://img.shields.io/github/stars/0000sai?style=for-the-badge&color=F85D7F)
 
 </div>
 
 ---
 
-## 💭 Philosophy
+## 🌟 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 💭 Quote of the Day
 
 <div align="center">
 
-> *"Automation is not a tool — it's a mindset."*
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ---
 
-### 🎯 Current Focus
+<div align="center">
 
-```yaml
-2026_goals:
-  - Master advanced Kubernetes patterns and operators
-  - Build production-grade GitOps workflows
-  - Contribute to open-source DevOps tools
-  - Achieve AWS Solutions Architect Professional
-  - Implement FinOps practices for cloud cost optimization
-```
+### 🚀 "Automation is not a tool — it's a mindset"
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+**Last Updated:** ![Last Commit](https://img.shields.io/github/last-commit/0000sai/0000sai?style=flat-square&color=F85D7F)
 
-**Last Updated:** ![Last Updated](https://img.shields.io/badge/dynamic/json?color=F85D7F&label=Last%20Updated&query=$.timestamp&url=https://api.github.com/users/0000sai&cacheSeconds=3600)
-
-⭐ **From [Vishnu Sai](https://github.com/0000sai)** | Built with ❤️, ☕, and lots of automation
+⭐ From [Vishnu Sai](https://github.com/0000sai) | 💼 Open for Opportunities | ☕ Fueled by Coffee & Code
 
 ![Visitor Count](https://profile-counter.glitch.me/0000sai/count.svg)
 
