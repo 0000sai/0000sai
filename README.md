@@ -1,8 +1,3 @@
-<!-- ===== TOP BANNER ===== -->
-<p align="center">
-  <img src="./XOps%20(1).png" alt="DevOps Banner" width="100%" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0000sai&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
@@ -42,15 +37,24 @@
 
 ---
 
-## 📊 GitHub Dashboard (Live)
+## 📊 GitHub Activity & Commit History
+
+### 🔥 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0000sai&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0000sai&theme=tokyo-night&hide_border=true" />
 </p>
 
+### ⏱ Commit Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0000sai&theme=tokyonight&hide_border=true" />
 </p>
 
+### 📈 Overall Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0000sai&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🧠 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0000sai&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
@@ -58,5 +62,5 @@
 ---
 
 <p align="center">
-  <i>“Automate everything that can be automated.”</i>
+  <i>Consistency beats intensity — ship every day 🚀</i>
 </p>
