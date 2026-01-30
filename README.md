@@ -135,10 +135,16 @@ fun_fact: "I automate my coffee breaks ☕"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0000sai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0000sai&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
+<a href="https://github.com/0000sai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0000sai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0000sai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8"/>
+</a>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0000sai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" />
+<br/>
+
+<a href="https://github.com/0000sai">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0000sai&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866"/>
+</a>
 
 </div>
 
@@ -148,7 +154,9 @@ fun_fact: "I automate my coffee breaks ☕"
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=0000sai&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
+<a href="https://github.com/0000sai">
+  <img src="https://github-profile-trophy.vercel.app/api/?username=0000sai&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+</a>
 
 </div>
 
@@ -158,15 +166,15 @@ fun_fact: "I automate my coffee breaks ☕"
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/0000sai/0000sai/output/github-contribution-grid-snake-dark.svg)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0000sai&custom_title=Vishnu%20Sai's%20Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true)](https://github.com/0000sai)
+<a href="https://github.com/0000sai">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0000sai&custom_title=Vishnu%20Sai's%20Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&height=300"/>
+</a>
 
 </div>
 
 ---
 
-## 💡 Tech Stack & Focus
+## 💡 Tech Stack Overview
 
 <div align="center">
 
@@ -238,8 +246,6 @@ fun_fact: "I automate my coffee breaks ☕"
 ### 🚀 "Automation is not a tool — it's a mindset"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 **⭐ From [Vishnu Sai](https://github.com/0000sai) | 💼 Open for Opportunities | ☕ Fueled by Coffee & Code**
 
