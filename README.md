@@ -170,37 +170,77 @@ fun_fact: "I automate my coffee breaks ☕"
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats & Contribution Graph
+
+<div align="center">
+
+### 📈 Contribution Activity Graph
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0000sai&theme=react-dark&bg_color=0d1117&color=f85d7f&line=f85d7f&point=f8d866&area=true&hide_border=true)
+
+</div>
+
+<div align="center">
+
+### 🔥 GitHub Stats
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=0000sai&show_icons=true&theme=react&bg_color=0d1117&title_color=f85d7f&icon_color=f8d866&text_color=ffffff&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=0000sai&theme=react&background=0d1117&ring=f85d7f&fire=f85d7f&currStreakLabel=f8d866&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+### 💻 Most Used Languages
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0000sai&layout=compact&theme=react&bg_color=0d1117&title_color=f85d7f&text_color=ffffff&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 📊 GitHub Activity Summary
 
 <div align="center">
 
 ### 🎯 Quick Stats
 
 ```text
-📦 Repositories: 285
-⭐ Total Stars: 258
-🔱 Projects: 1
-📈 Contributions: 150+ this year
-🔥 Current Streak: Active
+📦 Total Repositories: 285
+⭐ Stars Earned: 258
+🔱 Active Projects: 1
+📈 Total Contributions: 150+ (Last Year)
+🔥 Current Streak: Active Developer
+💻 Commits (Last Month): 19
+🏗️ Recent Repos Created: 6 (January 2026)
 ```
 
-### 📈 Recent Activity
+### 📈 Recent Activity Highlights
 
-- 🚀 Created 6 new repositories in January 2026
-- 💻 19 commits in the last month
-- 🏗️ Working on: AWS, Terraform, DevOps projects
-- 🌟 Languages: HCL, Shell, JavaScript, Python
+| Activity | Details |
+|----------|---------|
+| 🚀 **New Repositories** | aws-2-tier-project, EKS-AWS-Terraform-Module-Project |
+| 💻 **Recent Commits** | 19 commits across multiple repos |
+| 🏗️ **Active Projects** | AWS infrastructure, DevOps automation, Cost optimization |
+| 🌟 **Primary Languages** | HCL (Terraform), Shell, JavaScript, Python |
+| 🔧 **Focus Areas** | Cloud Infrastructure, Kubernetes, CI/CD |
 
-### 🏆 Key Projects
+</div>
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **aws-2-tier-project** | 2-tier AWS infrastructure | HCL, AWS |
-| **EKS-AWS-Terraform-Module-Project** | Kubernetes on AWS | Terraform, EKS |
-| **production-devops-handbook** | DevOps best practices | Shell |
-| **AWS-DevSecops-Codepipeline-Project** | Secure CI/CD pipeline | JavaScript |
-| **ec2-autostartstop-cost-optimization** | Cost optimization automation | Python |
-| **terraform-project-vpc-alb-modules** | Infrastructure modules | HCL |
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Stars |
+|---------|-------------|------------|-------|
+| **aws-2-tier-project** | Production-ready 2-tier AWS architecture | HCL, Terraform, AWS | ⭐ |
+| **EKS-AWS-Terraform-Module-Project** | Scalable Kubernetes infrastructure on AWS | Terraform, EKS, Helm | ⭐ |
+| **production-devops-handbook** | Comprehensive DevOps best practices guide | Shell, Documentation | ⭐ |
+| **AWS-DevSecops-Codepipeline-Project** | Secure CI/CD pipeline implementation | JavaScript, AWS CodePipeline | ⭐ |
+| **ec2-autostartstop-cost-optimization** | Automated cost optimization for EC2 | Python, Lambda, CloudWatch | ⭐ |
+| **terraform-project-vpc-alb-modules** | Reusable Terraform infrastructure modules | HCL, Terraform, AWS | ⭐ |
 
 </div>
 
