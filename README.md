@@ -19,6 +19,7 @@ name: Vishnu Sai
 role: DevOps & Cloud Engineer
 location: Hyderabad, India 🇮🇳
 status: Available for Freelance 💼
+email: kvs.vishnusai@gmail.com 📧
 
 current_focus:
   - Building resilient cloud infrastructure
@@ -130,15 +131,14 @@ fun_fact: "I automate my coffee breaks ☕"
 
 ---
 
-## 📊 Live GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0000sai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0000sai&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0000sai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=0000sai&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=C9D1D9&area=true&area_color=F85D7F&height=300" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0000sai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
@@ -154,7 +154,7 @@ fun_fact: "I automate my coffee breaks ☕"
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -166,25 +166,21 @@ fun_fact: "I automate my coffee breaks ☕"
 
 ---
 
-## 💡 Current Status
+## 💡 Tech Stack & Focus
 
 <div align="center">
 
-```javascript
-const vishnuSai = {
-    code: ["Python", "Bash", "JavaScript", "Go", "YAML"],
-    tools: {
-        cloud: ["AWS", "Azure", "GCP"],
-        containerization: ["Docker", "Kubernetes", "Helm"],
-        iac: ["Terraform", "Ansible", "Pulumi"],
-        cicd: ["Jenkins", "GitLab CI", "GitHub Actions", "ArgoCD"],
-        monitoring: ["Prometheus", "Grafana", "ELK Stack", "Datadog"]
-    },
-    architecture: ["Microservices", "Serverless", "Event-Driven", "Cloud-Native"],
-    currentFocus: "Building production-grade GitOps workflows",
-    challenge: "Mastering Kubernetes operators and CRDs"
-};
-```
+| **Category** | **Technologies** |
+|:------------|:----------------|
+| **Programming** | Python, Bash, JavaScript, Go, YAML |
+| **Cloud Platforms** | AWS, Azure, GCP |
+| **Containers** | Docker, Kubernetes, Helm |
+| **IaC** | Terraform, Ansible, Pulumi |
+| **CI/CD** | Jenkins, GitLab CI, GitHub Actions, ArgoCD |
+| **Monitoring** | Prometheus, Grafana, ELK Stack, Datadog |
+| **Architecture** | Microservices, Serverless, Event-Driven, Cloud-Native |
+| **Current Focus** | Building production-grade GitOps workflows |
+| **Challenge** | Mastering Kubernetes operators and CRDs |
 
 </div>
 
@@ -194,13 +190,13 @@ const vishnuSai = {
 
 <div align="center">
 
-| Goal | Status |
-|:-----|:------:|
-| AWS Solutions Architect Professional | ![20%](https://progress-bar.dev/20/?width=200&color=F85D7F) |
-| CKA Certification | ![60%](https://progress-bar.dev/60/?width=200&color=F8D866) |
-| Contribute to 5 Open Source Projects | ![40%](https://progress-bar.dev/40/?width=200&color=F85D7F) |
-| Build Production Platform | ![75%](https://progress-bar.dev/75/?width=200&color=F8D866) |
-| Master Service Mesh | ![30%](https://progress-bar.dev/30/?width=200&color=F85D7F) |
+| Goal | Progress |
+|:-----|:--------:|
+| AWS Solutions Architect Professional | ![20%](https://progress-bar.dev/20/?width=400&color=F85D7F) |
+| CKA Certification | ![60%](https://progress-bar.dev/60/?width=400&color=F8D866) |
+| Contribute to 5 Open Source Projects | ![40%](https://progress-bar.dev/40/?width=400&color=F85D7F) |
+| Build Production Platform | ![75%](https://progress-bar.dev/75/?width=400&color=F8D866) |
+| Master Service Mesh | ![30%](https://progress-bar.dev/30/?width=400&color=F85D7F) |
 
 </div>
 
@@ -215,6 +211,8 @@ const vishnuSai = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0000sai)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0000sai)
 
+### 📧 kvs.vishnusai@gmail.com
+
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0000sai&label=Profile%20Views&color=F85D7F&style=for-the-badge)
@@ -225,14 +223,7 @@ const vishnuSai = {
 
 ---
 
-## 🌟 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 💭 Quote of the Day
+## 💭 Daily Inspiration
 
 <div align="center">
 
@@ -250,9 +241,7 @@ const vishnuSai = {
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-**Last Updated:** ![Last Commit](https://img.shields.io/github/last-commit/0000sai/0000sai?style=flat-square&color=F85D7F)
-
-⭐ From [Vishnu Sai](https://github.com/0000sai) | 💼 Open for Opportunities | ☕ Fueled by Coffee & Code
+**⭐ From [Vishnu Sai](https://github.com/0000sai) | 💼 Open for Opportunities | ☕ Fueled by Coffee & Code**
 
 ![Visitor Count](https://profile-counter.glitch.me/0000sai/count.svg)
 
