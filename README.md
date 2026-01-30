@@ -135,16 +135,11 @@ fun_fact: "I automate my coffee breaks ☕"
 
 <div align="center">
 
-<a href="https://github.com/0000sai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0000sai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0000sai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0000sai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0000sai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8)
 
-<a href="https://github.com/0000sai">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0000sai&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866"/>
-</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0000sai&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
 
 </div>
 
@@ -154,9 +149,7 @@ fun_fact: "I automate my coffee breaks ☕"
 
 <div align="center">
 
-<a href="https://github.com/0000sai">
-  <img src="https://github-profile-trophy.vercel.app/api/?username=0000sai&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
-</a>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=0000sai&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
 
 </div>
 
@@ -166,9 +159,7 @@ fun_fact: "I automate my coffee breaks ☕"
 
 <div align="center">
 
-<a href="https://github.com/0000sai">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0000sai&custom_title=Vishnu%20Sai's%20Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&height=300"/>
-</a>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=0000sai&custom_title=Vishnu%20Sai's%20Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&height=300)
 
 </div>
 
@@ -187,8 +178,6 @@ fun_fact: "I automate my coffee breaks ☕"
 | **CI/CD** | Jenkins, GitLab CI, GitHub Actions, ArgoCD |
 | **Monitoring** | Prometheus, Grafana, ELK Stack, Datadog |
 | **Architecture** | Microservices, Serverless, Event-Driven, Cloud-Native |
-| **Current Focus** | Building production-grade GitOps workflows |
-| **Challenge** | Mastering Kubernetes operators and CRDs |
 
 </div>
 
@@ -225,7 +214,7 @@ fun_fact: "I automate my coffee breaks ☕"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0000sai&label=Profile%20Views&color=F85D7F&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/0000sai?label=Followers&style=for-the-badge&color=F8D866)
-![GitHub User's stars](https://img.shields.io/github/stars/0000sai?style=for-the-badge&color=F85D7F)
+![GitHub Stars](https://img.shields.io/github/stars/0000sai?style=for-the-badge&color=F85D7F)
 
 </div>
 
