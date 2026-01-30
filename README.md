@@ -170,43 +170,37 @@ fun_fact: "I automate my coffee breaks ☕"
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=0000sai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&cache_seconds=1800)
+### 🎯 Quick Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0000sai&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&cache_seconds=1800)
+```text
+📦 Repositories: 285
+⭐ Total Stars: 258
+🔱 Projects: 1
+📈 Contributions: 150+ this year
+🔥 Current Streak: Active
+```
 
-</div>
+### 📈 Recent Activity
 
----
+- 🚀 Created 6 new repositories in January 2026
+- 💻 19 commits in the last month
+- 🏗️ Working on: AWS, Terraform, DevOps projects
+- 🌟 Languages: HCL, Shell, JavaScript, Python
 
-## 🔥 GitHub Streak
+### 🏆 Key Projects
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=0000sai&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0000sai&bg_color=0d1117&color=f8d866&line=f85d7f&point=ffffff&area=true&hide_border=true&title_color=ffffff)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=0000sai&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **aws-2-tier-project** | 2-tier AWS infrastructure | HCL, AWS |
+| **EKS-AWS-Terraform-Module-Project** | Kubernetes on AWS | Terraform, EKS |
+| **production-devops-handbook** | DevOps best practices | Shell |
+| **AWS-DevSecops-Codepipeline-Project** | Secure CI/CD pipeline | JavaScript |
+| **ec2-autostartstop-cost-optimization** | Cost optimization automation | Python |
+| **terraform-project-vpc-alb-modules** | Infrastructure modules | HCL |
 
 </div>
 
@@ -275,7 +269,11 @@ Master Service Mesh                   ██████░░░░░░░░
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> "The best way to predict the future is to automate it" 
+> 
+> "In DevOps we trust, in automation we must"
+>
+> "Security is not a feature, it's a foundation"
 
 </div>
 
