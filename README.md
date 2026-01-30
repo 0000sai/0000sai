@@ -2,6 +2,11 @@
 
 # 👋 Hi, I'm Vishnu Sai
 
+<!-- Banner Image -->
+<img src="./White Simple Minimalist Modern Traveler Linkedin Banner.png" alt="Banner" width="100%" />
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F85D7F&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer;XOps+%7C+MLOps+%7C+AIOps+Specialist;DevSecOps+%26+FinOps+Practitioner;Automation+Enthusiast;Infrastructure+as+Code+Advocate;Kubernetes+%26+Docker+Expert;CI%2FCD+Pipeline+Architect" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=fff" />
