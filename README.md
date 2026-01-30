@@ -14,34 +14,32 @@
 
 ## 🚀 About Me
 
-```yaml
-name: Vishnu Sai
-role: DevOps & Cloud Engineer
-location: Hyderabad, India 🇮🇳
-status: Available for Freelance 💼
-email: kvs.vishnusai@gmail.com 📧
+**DevOps & Cloud Engineer** based in **Hyderabad, India** 🇮🇳
 
-current_focus:
-  - Building resilient cloud infrastructure
-  - Automating everything possible
-  - Mastering Kubernetes & GitOps
-  - Contributing to open source
+📧 **Email:** kvs.vishnusai@gmail.com  
+💼 **Status:** Available for Freelance  
+🎯 **Focus:** Building resilient cloud infrastructure & automation
 
-interests:
-  - ☁️  Cloud Native Technologies
-  - 🔄 CI/CD Pipeline Optimization  
-  - 🐳 Container Orchestration
-  - 📊 Observability & Monitoring
-  - 🤖 Infrastructure Automation
+### Current Focus
+- Building resilient cloud infrastructure
+- Automating everything possible
+- Mastering Kubernetes & GitOps
+- Contributing to open source
 
-learning:
-  - Advanced Kubernetes Patterns
-  - Service Mesh (Istio/Linkerd)
-  - Platform Engineering
-  - FinOps & Cloud Cost Optimization
+### Interests
+- ☁️  Cloud Native Technologies
+- 🔄 CI/CD Pipeline Optimization  
+- 🐳 Container Orchestration
+- 📊 Observability & Monitoring
+- 🤖 Infrastructure Automation
 
-fun_fact: "I automate my coffee breaks ☕"
-```
+### Learning
+- Advanced Kubernetes Patterns
+- Service Mesh (Istio/Linkerd)
+- Platform Engineering
+- FinOps & Cloud Cost Optimization
+
+💡 **Fun fact:** "I automate my coffee breaks ☕"
 
 <br clear="right"/>
 
@@ -126,40 +124,6 @@ fun_fact: "I automate my coffee breaks ☕"
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=0000sai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0000sai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=0000sai&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=0000sai&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0000sai&custom_title=Vishnu%20Sai's%20Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&height=300" alt="Contribution Graph" />
 
 </div>
 
