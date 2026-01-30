@@ -134,14 +134,27 @@ fun_fact: "I automate my coffee breaks ☕"
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<a href="https://github.com/0000sai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0000sai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0000sai&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9"/>
+</a>
+
+</div>
+
+<div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0000sai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0000sai&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak Stats" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0000sai&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" />
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0000sai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+---
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=0000sai&custom_title=Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Vishnu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0000sai&bg_color=0d1117&color=f8d866&line=f85d7f&point=ffffff&area=true&hide_border=true&title_color=ffffff&area_color=f85d7f)](https://github.com/0000sai)
 
 </div>
 
@@ -151,7 +164,7 @@ fun_fact: "I automate my coffee breaks ☕"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=0000sai&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=0000sai&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/0000sai)
 
 </div>
 
@@ -179,13 +192,13 @@ fun_fact: "I automate my coffee breaks ☕"
 
 <div align="center">
 
-| Goal | Progress |
-|:-----|:--------:|
-| AWS Solutions Architect Professional | ![20%](https://progress-bar.dev/20/?width=400&color=F85D7F) |
-| CKA Certification | ![60%](https://progress-bar.dev/60/?width=400&color=F8D866) |
-| Contribute to 5 Open Source Projects | ![40%](https://progress-bar.dev/40/?width=400&color=F85D7F) |
-| Build Production Platform | ![75%](https://progress-bar.dev/75/?width=400&color=F8D866) |
-| Master Service Mesh | ![30%](https://progress-bar.dev/30/?width=400&color=F85D7F) |
+```text
+AWS Solutions Architect Professional  ████████░░░░░░░░░░░░ 40%
+CKA Certification                     ████████████░░░░░░░░ 60%
+Contribute to 5 Open Source Projects  ████████░░░░░░░░░░░░ 40%
+Build Production Platform             ███████████████░░░░░ 75%
+Master Service Mesh                   ██████░░░░░░░░░░░░░░ 30%
+```
 
 </div>
 
@@ -206,7 +219,7 @@ fun_fact: "I automate my coffee breaks ☕"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0000sai&label=Profile%20Views&color=F85D7F&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/0000sai?label=Followers&style=for-the-badge&color=F8D866)
-![GitHub Stars](https://img.shields.io/github/stars/0000sai?style=for-the-badge&color=F85D7F)
+![GitHub Stars](https://img.shields.io/github/stars/0000sai?affiliations=OWNER,COLLABORATOR&style=for-the-badge&color=F85D7F)
 
 </div>
 
